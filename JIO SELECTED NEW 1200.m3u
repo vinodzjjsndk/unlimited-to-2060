@@ -1,0 +1,206 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml.gz"
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News 1", NDTV India
+https://jiotvcdn.vercel.app/jiom3u8/1/NDTV_India/NDTV_India_800.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News", NDTV India 2
+https://jiotvcdn.vercel.app/jiom3u8/1/NDTV_India/NDTV_India_250.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="web News", NDTV India
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvindia_nim_https/8afe882d-c09e-4b1f-91f4-c500148c2934/0.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="web News", NDTV India 2
+https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/ca95e659-87c0-4c23-88b8-5939cedb9810:SIN2/master.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="web News", ABP News India
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="web News", ABP News India 2
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News 1", ABP News India
+https://tv.googledrivelinks.com/live.php?c=ABP_News_India&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News 1", ABP News India
+https://tv.googledrivelinks.com/live.php?c=ABP_News_India&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News India qq
+https://jiotvcdn.vercel.app/jiom3u8/1/ABP_News_India/ABP_News_India_800.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News", ABP News India 3
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=177&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMiA0OjA3OjIyIFBNJmhhc2hfdmFsdWU9ZWVqT28rMnJLMHo3VWdJWFdUbjd0Zz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News 1", Aaj Tak as
+https://tv.googledrivelinks.com/live.php?c=Aaj_Tak&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News", Aaj Tak
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="web News", Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="web News", Aaj Tak 2
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="web News", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_360p/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News 1", News 24 as
+https://tv.googledrivelinks.com/live.php?c=News_24&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="News", News 24 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=501&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMiA0OjE2OjMwIFBNJmhhc2hfdmFsdWU9M2NjV2oveEtDQ1p4cFd1K1psSUYrdz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="web News", News 18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News 1", News 18 India
+https://tv.googledrivelinks.com/live.php?c=IBN_7&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="News", News 18 India 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=231&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxOjUyOjM0IFBNJmhhc2hfdmFsdWU9SGxUY29NZlQvdjcvb2ZwLzVGYUhGZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="web News", News Nation
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7t0g3i.m3u8?auth=1669370973-2562-53c0m4g3-e1dddb54ebc5b2c9993af85c82743fdavCuDxZB44azZphFNhESw9eq8ARJVI4UI5o_7e81ERkXNrU9Q0t-CCnFUNhiN2kZkI8xPDyThr8Hgv6vkDXxG8zQ3qGm4VpVywqzDohkhYK5fVUDO9oXaWymkApOUjd2TEu9vDdX-aY7Mz0MjA5HWNO2WYt9SbJXDAWQQznq8jJuTGIBA2ADuotzj1o-8j5ZTo9Rwyhh_r5IEBZmtjUzpjwD2sL9IY_3XbyKrTc1lo2NwACjCYC_TyyqxTHjX52luOd2MpMMEJw5RtnWi0qlHUy_p6zT-rzvIkl04D8P3bSikVdAR9ji3Utq4sHIMg83V1M2mhvdZABWpYuoHBE2C5DCfqxWTIui4y0IlKJFyVtWylR3tOexf0AKH9QaE8AfY4Ji7_yVCWrFgEJSryB6NR8eDZgqHw8UkuLLeuoW1VNvQeTS1288nVHqaz1Edj_gJAss2f4gM50zKoOVo_O3KuibEYkktgdRjnwmQCLfD0jn6DV9WG7jmI3HAz-_1DTrhb7LHOnXf3xV9J8OWtspMCgGp10UELTq5VzY0-01N3IH0PnziQyvj05nXiXX5hiP3JJ1Lg_TRLp0PaIUfH1aj4CSZQPJQH4rUch0VloCTwempknPRK5EcKoAL4ok811u_ePMAgjWaxWgLqYTO-l_zUJWrM3PrAXcPHAgoCAXAid3hsp4dDce6wfZKiWNRQcUZ03lzPcTPayuFwaSgrfR-sHQkGzU9yBcGaddiZH3awoCpRjIHw_Jdpr_nIRglPww8Ag2VVQSi6APQE63WfUQk0RgEKN_d8a73UnuIOBmdABVNmdJ_Llzo9XyuN7MfSlKzOdo4OJ_yjOORhP9E0xoCXjt-hiqqJUC7Yd_DCclj9nZsgzBMY5yYqgBHrlZ47x3pF2kT0rqruHsFbYL91r9K7KLrv9hug1DH0Y9yWzOMjAobF55tV5U6-MgOID_qplXEiIdjqKZDvnxIZuZew3RtnfdXJeKV4QiQqqSVvF2DYSjZuumU6WMF5odRQ0pHxitlPiIbiteVEJuXfdpiJEZAAmoUEBdVLHOFs3SiZYnwvOvTlnemme8WFqQJUcJTwhhdlMbP_jVMhbQKjSmgWW42I2Hk_tNvgXmsCJXtT2kkGdDEd2JvsGaI0ekJru6FiutATouwDn_Y4jXRaiMNjgzl8LvJud1w0FmD9Vwz8gxAa-cQqX8PNSzSgO0uGnF9OjvdhxjY6V3u8bFFdwHZVAFgR5aJwi1EeI7nyMG_AIgHGbWSuPEnVvum6C3FxsJNwudwVzKTYDK4AlrI8tw0YiiFi85w0qK0zZ6QaH5RO342YgD3LNK2yVv_YTuJzFLaIXqocFMOzOCMLQ-k7l3jbPuPj4TUJqnYDbD1aUC6TbsAcFXvDGqo3qCsjoIa7DwIiqBANlwnVbevq8ktQ2UQYYfuFWXVJwVGg07s4c8S_HPimHLq2S7YN_vL_ZPXLTwVtyUqzZClNC7kcalkA_MyalscCvrypS43KomwMNH5sgLajiABAGiBujNmHKJFuhk2sq61tgZ-geIBNiwpgjZmy3mvoNYOm7oZk0dqgQxJkDYxEDfTL0h02HOH3HxDbsCNDYapHQpxuOpjfDqjiQw5MkQnpTNoOp_FYlhf2WOrHOPMyfSQnoj7Zd1esFb2d4bXqWuec-STJYKbVKcdyHazFbPFL-9RRjmeQFy8yCm83FfGuO454HffR0LcSdYuacYx_bQoNHlh5QF7Wew8Oh1Hy0bDZv4w3qAfFOfypvZcdH3Dq2r9ldaWQu9zqfX2wB7wIxtST779OBL68xQruUUYj5kfBp_ummI9bNn9edID6nWH5SYwveA-ZF1wHNuM4d90Oh1RH0F_t4suVz3YkSIlTEm9uqI-QDL3wkNz4UbmcSf3HjgLK9C_IsIgiR6k1Xc4Kp926ziP1_Ekezw5AMupiDeAwE8aZ5cn0sCP_0M6zNyPhbsIxJVVC4ow0Gv1_wvtM7rgUm-rAgqA45phNOm5RY18uYmfU4xwW4sKkJQfLQWRwUeIiqwrMjtXlS1Bni4jdecg1nDLmsIl08WqLPckMlpS_IFuvv8IYGyEgtjowY5NmUUREFa0PUYLpj_YKSpVqZF9lpTcnUDyAo5rn5y-p2zAllQG6E-3kqOEUndJQwkjoumoV1na8_9L6Rnp7jdOjjdgFC9nprxVwHwoZKKuyslB02l2j__yoPKWkcDJRGHJLMcU7Z61K4oKFfx6cFWQyFxyF-t7JKYMJdtRI5ss-0IZ6hnjAL81n70rJNoJMiHcgiWTcIgPQDfVTLJd_XYt1W3J7By5umfqbrON4KC-Cjlka9xlyT7T_5-4xFF3467V9J9BLEjbz1LTfsdcc0tfmJ-KOKr_ReD4sJ_FhJt75TYhRGwdCi8nwp4ujl3Ieo9G9bTHnz_FWPj6ry3L3dbLOFpPSe77XzZYJer_D-LYCZkUxNmLRWTvaGdeDgOB56reOmK1qrU1jxORDbhT625L3ICxI3o3I7gQa45xA1GwYimxs161FsxNRV2HAetu9zhLR13uTb43Y93Y_QZa2RHSbgxoWkLlGBQQiaa_60K6aJ4LA1azCRUPw7pMgQb5F5971ZkG28gm-lvYlQM3OZ0Y3t7WWTIaPJt21uAgVMT6Sa8rJ6A&ps=730x411&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=10&ciid=1gihvdl545fthf5gi4g_VMAP_0_0&cidx=0&sidx=0&rap=0&vidIdx=0&vad=0&omp=Dailymotion%2F1.0&omn=0&imal=1&uid_dm=26b731c8-a305-3848-267d-91ccde4b58ff&3pcb=0
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="web News", News Nation 2
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7t0g3i.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News 1", News Nation
+https://tv.googledrivelinks.com/live.php?c=News_Nation&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News", News Nation 2
+
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=501&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxOjIzOjI5IFBNJmhhc2hfdmFsdWU9WUhwbFl1T2xQd2dzcGFMNW1DbTJhUT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News 1", India TV
+https://tv.googledrivelinks.com/live.php?c=India_TV&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="News", India TV 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=235&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxOjUzOjM3IFBNJmhhc2hfdmFsdWU9NzdyVGw4Z0RuV2c0U0xERGp6VTM5QT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="News 1", Total TV
+https://tv.googledrivelinks.com/live.php?c=Total_TV&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="News", Total TV 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=855&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxOjU1OjUxIFBNJmhhc2hfdmFsdWU9andYQW81MnlwVEppdlQwa0RTRmVJUT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News 1", India news
+https://tv.googledrivelinks.com/live.php?c=India_news&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News", India news 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=498&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxOjU3OjQ4IFBNJmhhc2hfdmFsdWU9eCt3bGp2ZUY0QzJjeVlBMFpnRDJEUT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News 1", Zee News
+https://tv.googledrivelinks.com/live.php?c=Zee_News&q=250&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News", Zee News 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=504&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxOjU4OjM5IFBNJmhhc2hfdmFsdWU9c2E4T01ZcE9zZ21sT05ieDJXbEhQQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News 1", News Nation
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="News 1", India News Haryana
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="News 1", Hindi Khabar
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="News", India news 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=498&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA4OjUzOjA3IEFNJmhhc2hfdmFsdWU9R1dUUVpUaHY1VXJMbFo5aWNnZnB1Zz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD
+https://tv.googledrivelinks.com/live.php?c=Zee_Cinema_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies", Zee Cinema HD 2
+https://tvstream.fun/jtv/jiotv-india.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", And Pictures HD
+https://tv.googledrivelinks.com/live.php?c=And_Pictures_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", And Pictures HD 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=And_Pictures_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies", B4U Movies
+https://tv.googledrivelinks.com/live.php?c=B4U_Movies&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies", B4U Movies 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=B4U_Movies&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Punjabi", Pitaara
+https://tv.googledrivelinks.com/live.php?c=Pitaara&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Punjabi", Pitaara 2
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/Pitaara/Pitaara.isml/pitaara-audio_208482_und=208000-video=877600.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Punjabi", Pitaara  INTERNATIONAL
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/52bedef2-be99-4ca8-b942-f2916af2c45a/0.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies", Zee Cinema
+https://tv.googledrivelinks.com/live.php?c=Zee_Cinema&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", And Pictures
+https://tv.googledrivelinks.com/live.php?c=And_Pictures&q=250&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", And Pictures 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=And_Pictures&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony Max HD
+https://tv.googledrivelinks.com/live.php?c=Sony_Max_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Movies", Manoranjan TV
+https://tv.googledrivelinks.com/live.php?c=Manoranjan_TV&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony MAX2
+https://tv.googledrivelinks.com/live.php?c=Sony_MAX2&q=250&e=.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD
+https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex_HD&q=250&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies", Colors Cineplex HD 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=Colors_Cineplex_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", Sony HD
+https://tv.googledrivelinks.com/live.php?c=Sony_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment", Sony HD 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=291&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxMDoxNzo0NiBBTSZoYXNoX3ZhbHVlPTZJVDdZRy84S0lvYkhwNGVGOUVvZGc9PSZ2YWxpZG1pbnV0ZXM9MzYw&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment", Sony SAB HD
+https://tv.googledrivelinks.com/live.php?c=Sony_SAB_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment", Sony SAB HD 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=471&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxMDoxNTowMyBBTSZoYXNoX3ZhbHVlPXJtcWlyaGJ6d2VzZFROMzdXTVZKWmc9PSZ2YWxpZG1pbnV0ZXM9MzYw&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment", Sony SAB
+https://tv.googledrivelinks.com/live.php?c=Sony_SAB&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD
+https://tv.googledrivelinks.com/live.php?c=And_TV_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment", And TV HD 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=And_TV_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
+https://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=167&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAxMDoyMTozNyBBTSZoYXNoX3ZhbHVlPW5yZlBNWWJBc2xJeFhBM1QzT2g0d2c9PSZ2YWxpZG1pbnV0ZXM9MzYw&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=Colors_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Entertainment", Colors Infinity SD
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=1325&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiAyOjA3OjE5IFBNJmhhc2hfdmFsdWU9eDJwRVEzRUtXQndYZGJlSUxzUWgyQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png" group-title="Movies", Housefull Movies
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies", Zee Bollywood 2
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=487&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjI0OjUzIFBNJmhhc2hfdmFsdWU9bjl6S0t2dEVUaUZMeWlZTVZQdG0rZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Movies", Enterr 10
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=485&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjI1OjQ3IFBNJmhhc2hfdmFsdWU9bTNqWWh6U1ltd0VudHl0UEZMWWV2Zz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies", Colors Cineplex 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=Colors_Cineplex&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" , Colors Cineplex Superhit 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" , Colors Cineplex Bollywood 2
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=Colors_Cineplex_Bollywood&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony Pix HD
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=762&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjMxOjA3IFBNJmhhc2hfdmFsdWU9QjZRL3JSdEtkeGFsa1dkYlkwZGNOQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Movies", Bflix Movies
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=Bflix_Movies&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="Music", 9XM
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=587&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjMzOjUwIFBNJmhhc2hfdmFsdWU9NlFUWlZISzZBcFRvSWpycFlpU2NqQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music", E 24
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=591&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjM0OjI5IFBNJmhhc2hfdmFsdWU9M1VzRkRSWEp2cHE2ME93KzJzR1BnUT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=183&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjM1OjQ3IFBNJmhhc2hfdmFsdWU9bXR0bGJUajdDUVgvUUNRTWw2bEdBZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music", Mastiii
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=584&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjM4OjM1IFBNJmhhc2hfdmFsdWU9eWR3UTc1YWNvVXNZT01HRTcvc2h3dz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music", Music India
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=250&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjM5OjMzIFBNJmhhc2hfdmFsdWU9RTEzK2IvSW9xRGN5RlRRZmlaMWxiUT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music", 9X Jalwa
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=440&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjQwOjM5IFBNJmhhc2hfdmFsdWU9V0dpcTkrZmVmYzdZN2ZNNVl4NXROQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=1295&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjQxOjE4IFBNJmhhc2hfdmFsdWU9NmRwZEVGb20zbmtwYXQ1WTlYTnUwZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music", iLove
+https://tvstream.fun/jtv/jio_fifa_wc_qatar.php?c=iLove&q=600&e=.m3u8
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="Devotional", Prarthana Bhawan
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=1278&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjQ0OjA0IFBNJmhhc2hfdmFsdWU9UGkvVG85Tkl1aTdIZzRXMU9VL2k4UT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional", Darshan 24
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="Devotional", Divya TV
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=801&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjQ2OjQzIFBNJmhhc2hfdmFsdWU9SHptTHdmaDJTV1I2a0VXMzdWQXk5UT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="Devotional", Santvani
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=1426&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjQ4OjE4IFBNJmhhc2hfdmFsdWU9NGk4bjc2b2dtM3h4SFJNNGIvVW5xZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Devotional", Aastha
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=175&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjQ5OjA1IFBNJmhhc2hfdmFsdWU9QUZYTi96WFNUZWI2dW91b1BabnNQZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional", Aastha Bhajan
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=594&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjU4OjE2IFBNJmhhc2hfdmFsdWU9Yjl6dzBJYzkvQ1JvMFdXdHRlaXVpQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="Devotional", Sanskar
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=288&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA1OjU5OjI0IFBNJmhhc2hfdmFsdWU9cXphU1V2c044UkxxUjJnRlVNdUtLZz09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="Devotional", Sadhna
+https://nayeemparvez.chadasaniya.cf/zioxtv.php?id=593&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMiA2OjAxOjU5IFBNJmhhc2hfdmFsdWU9bjlOeml3UGpCNktJQm10MEdDYmVHQT09JnZhbGlkbWludXRlcz0zNjA=&q=250&e=.m3u8
+
+
